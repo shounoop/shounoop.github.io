@@ -21,6 +21,11 @@
             
             .contact-form .form-control {
                 padding: 15px;
+                font-size: 16px;
+            }
+
+            .contact-submit-btn {   
+                font-size: 16px;
             }
 
             #footer .socials-list a {
@@ -97,4 +102,5 @@
             .contact-form {
                 margin-top: 32px;
             }
+
         }
